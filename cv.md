@@ -63,7 +63,7 @@ in [Ganime.io](https://ganime.io/)
 
 from November 2021 to March 2022
 
-Worked as a tester on a personal project of friends 
+Worked as a tester on a personal project of friends
 - Testing the main functionality of the site
 - Testing leaderboard, beauty-contest
 - Testing the bot in discord
