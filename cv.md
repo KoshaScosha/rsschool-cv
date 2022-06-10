@@ -22,7 +22,7 @@ I became interested in the field of IT, started self-study, now after studying t
 - Familiar with testing tools: Chrome Dev Tools, Jira (ready to master any bug tracking system), Confluence, MySQL, PostgreSQL, SoapUI, Fork
 ## Code example:
 
-```python
+~~~python
 from typing import List
 
 import uvicorn
@@ -55,7 +55,7 @@ async def get_user(index: int):
 
 
 uvicorn.run(app, host="0.0.0.0", port=5000)
-```
+~~~
 
 ## Work experience:
 ### Tester
