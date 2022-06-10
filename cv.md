@@ -21,7 +21,8 @@ I became interested in the field of IT, started self-study, now after studying t
 - I can distinguish JSON from XML, understand HTML, CSS
 - Familiar with testing tools: Chrome Dev Tools, Jira (ready to master any bug tracking system), Confluence, MySQL, PostgreSQL, SoapUI, Fork
 ## Code example:
-```
+
+```python
 from typing import List
 
 import uvicorn
